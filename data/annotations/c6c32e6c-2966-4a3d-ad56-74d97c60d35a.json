@@ -1,5 +1,31 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 15,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is the introduction to the East Broad Top Historic film. Here we see the railroad and the trains."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cinematography",
+          "category": "Film Analysis"
+        },
+        {
+          "tag": "Titles",
+          "category": "Titles"
+        }
+      ],
+      "uuid": "5212d8c6-7d13-4cc9-946e-b0f8ce81fae5"
+    }
+  ],
   "set": "Default",
   "event_id": "435bcfcb-4878-48ad-a8e2-4991ce372ce9",
   "source_id": "3d5ae634-af43-4909-93cd-7a6b421d1281"
