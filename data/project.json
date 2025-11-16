@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "JRockwellEBT",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115667512?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "JRockwellEBT",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-11-16T22:47:00.725Z",
-    "updated_at": "2025-11-16T22:47:00.725Z"
-  }
+    "updated_at": "2025-11-16T22:47:00.725Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "74babca6-6e56-4b95-8f44-a9d42c2b89e4": {
+      "content": [],
+      "created_at": "2025-11-16T22:47:00.748Z",
+      "created_by": "JRockwellEBT",
+      "title": "East Broad Top Railroad Historic Films",
+      "updated_at": "2025-11-16T22:47:00.748Z",
+      "updated_by": "JRockwellEBT",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "74babca6-6e56-4b95-8f44-a9d42c2b89e4"
+  ]
 }
