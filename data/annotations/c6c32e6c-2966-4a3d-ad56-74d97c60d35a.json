@@ -24,6 +24,31 @@
         }
       ],
       "uuid": "5212d8c6-7d13-4cc9-946e-b0f8ce81fae5"
+    },
+    {
+      "start_time": 900,
+      "end_time": 930,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here we see Engine 15 in reverse in the yards."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Film Analysis",
+          "category": "Film Analysis"
+        },
+        {
+          "tag": "Insert Shot",
+          "category": "Titles"
+        }
+      ],
+      "uuid": "1a73c5a8-d2b0-45ee-851f-a2851fb742b9"
     }
   ],
   "set": "Default",
